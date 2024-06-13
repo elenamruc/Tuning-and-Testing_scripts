@@ -29,7 +29,7 @@ This repository contains Python scripts developed to generate and manipulate ima
    - Includes functionality to adjust visual settings and manage output files efficiently.
 
 ### Usage
-
+Specified in each script, for example:
 ```bash
 python histogram_noise_comined.py <input_file.root> <output_directory>
 
